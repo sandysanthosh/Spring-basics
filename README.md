@@ -52,3 +52,40 @@ When we annotate a Spring Bean method with PreDestroy annotation, it gets called
 
 ### Spring @Async
 Spring @Async annotation allows us to create asynchronous methods in spring. Let’s explore @Async in this tutorial on spring framework.
+
+
+@Postconstructor
+@predestroy
+@InitBinder
+
+@responsebody
+@responseheader
+
+@Transaction
+
+@aspect 
+@pointcut 
+@jointpoint
+
+@model
+@Repository 
+@Controller 
+@Service
+
+@Restcontroller
+@RequestMapping
+@valid
+@BinderResult
+@configure
+
+@getmapping
+@postmapping
+@deletemapping
+@putmapping 
+
+@value
+
+@data
+@max,min,null,notnull,
+iserror
+
